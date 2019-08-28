@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+Salam olsun sovketize, elize, menim de bir adim gelsin dilize! Ala bula boz kechi!
+=======
 Salam olsun sovketize, elize, menim de bir adim gelsin dilize! Min genc cixar zahire viraneliyiden!
+>>>>>>> 99dc69562b38c536475db51574e1cea4871385d4
