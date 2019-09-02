@@ -1,1 +1,1 @@
-Last time I wrote following words; salam Java
+Salam, I entered this file and finally was able to make changes from command line. I am happy that I was able to do so!
